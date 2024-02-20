@@ -74,7 +74,7 @@
     "@types/stripe": "^8.0.417",
     "@vladmandic/human": "^3.0.5",
     "arraybuffer-to-buffer": "^0.0.7",
-    "axios": "^1.2.3",
+    "axios": "^1.6.0",
     "babel-plugin-superjson-next": "^0.4.4",
     "blurhash": "^2.0.4",
     "chalk": "^5.2.0",
